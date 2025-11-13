@@ -22,5 +22,6 @@ gcc Perceptron_test.c -o Perceptron.test -lm
 ./Perceptron_test
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+See the [LICENSE](LICENSE) file for full details.
 
