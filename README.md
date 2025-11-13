@@ -15,8 +15,8 @@ However, the modular design allows it to predict any number of continuous values
 
 ## Installation
 A practical example is shown on the file Perceptron_test.
-  ## Usage
-  Compile the code with your C compiler:
-   bash
-   gcc Perceptron_test.c -o Perceptron.test -lm
-   ./Perceptron_test
+## Usage
+Compile the code with your C compiler:
+bash
+gcc Perceptron_test.c -o Perceptron.test -lm
+./Perceptron_test
